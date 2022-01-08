@@ -10,6 +10,6 @@
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
-This is a test edit of flatris by me SUCHI
+This is a test edit of flatris by me SUCHI............
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
